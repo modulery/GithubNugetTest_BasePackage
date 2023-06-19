@@ -1,0 +1,2 @@
+# GithubNugetTest_BasePackage
+GithubNugetTest.BasePackage
